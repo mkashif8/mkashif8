@@ -83,7 +83,7 @@ Stay tuned for powerful demos and real-world samples:
 
 Click the ⭐ on repositories and let's talk about building or fixing your backend!  
 
-🌍 [Hire me on Upwork](https://www.upwork.com/freelancers/kashifhameed) *(Insert your profile URL)*
+🌍 [Hire me on Upwork](https://www.upwork.com/freelancers/kashifhameed) *(Top Rated Freelancer)*
 
 ---
 
