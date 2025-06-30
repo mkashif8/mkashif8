@@ -1,6 +1,6 @@
-# 👨‍💻 Kashif Hameed | Senior .NET Backend Developer
+# 👨‍💻 Kashif Hameed | Senior Full Stack Developer
 
-**C# | ASP.NET Core | Azure | AWS | Blazor | SQL Server | Python | REST APIs | DevOps**
+**C# | ASP.NET Core | Angular | React | NodeJS | Azure | AWS | Blazor | SQL Server | Python | REST APIs | DevOps**
 
 ---
 
